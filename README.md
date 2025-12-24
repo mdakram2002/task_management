@@ -113,5 +113,4 @@ This frontend is part of a monolithic repository containing:
 - **Node.js LLM enhancement service** (lake of laveral experties not completed)
 - **React frontend** (Compeleted)
 
-The system architecture diagram accurately represents the complete workflow.
-All decisions were made independently where clarifications were unavailable.
+All design and implementation decisions were made independently, with LLM/AI assistance used only for understanding Laravel API structure where clarifications were unavailable, while keeping real-world constraints and time limits in mind.
