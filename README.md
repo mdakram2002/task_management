@@ -20,9 +20,7 @@ This repository contains the complete ReactJS frontend for Task Manager Pro, a p
 ## **Testing Flow Diagram**
 ![System Architecture Diagram](src/assets/Testing_Flow.png)
 
-
-
-# **Project Structure**
+## **Project Structure**
 task-management/
 ├── public/
 │   ├── index.html
@@ -71,7 +69,7 @@ Git – Version control
     - npm 8.0 or higher
     - Modern web browser (Chrome, Firefox, Edge)
 
-# **Step 1:** Clone Repository
+## **Step 1:** Clone Repository
 ```bash
     git clone <repository-url>
     cd task-manager
@@ -115,3 +113,13 @@ Git – Version control
     # Serve the build
     serve -s build -l 3000
 ```
+
+## **Final Notes**
+This frontend is part of a monolithic repository containing:
+
+- **Laravel backend** (just understand how it's works)
+- **Node.js LLM enhancement service** (lake of laveral experties not completed)
+- **React frontend** (Compeleted)
+
+The system architecture diagram accurately represents the complete workflow.
+All decisions were made independently where clarifications were unavailable.
