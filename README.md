@@ -1,15 +1,13 @@
 ## Task Manager Pro – Complete Frontend Documentation
 
-
 - Project overview
 - System Architecture (explained + image reference)
 - Data flow / flowchart (text + mapping to image)
 - Frontend folder structure (matches your screenshot)
 - Local setup instructions for React frontend
 
-
 **Project Overview**
-This repository contains the complete ReactJS frontend for Task Manager Pro, a professional task management application built with modern web technologies. The application provides a clean, responsive interface for managing tasks with features like priority tracking, categorization, filtering, and real-time statistics.
+- This repository contains the complete ReactJS frontend for Task Manager Pro, a modern task management application. It offers a clean and responsive user interface that allows users to manage tasks efficiently, including features such as priority tracking, categorization, filtering, and real-time task statistics.
 
 
 ## **System Architecture Diagram**
@@ -20,32 +18,26 @@ This repository contains the complete ReactJS frontend for Task Manager Pro, a p
 ## **Testing Flow Diagram**
 ![System Architecture Diagram](src/assets/Testing_Flow.png)
 
+
 ## **Project Structure**
 task-management/
-├── public/
-│   ├── index.html
-│   ├── favicon.ico
-│   └── manifest.json
-├── src/
-│   ├── assets/
-│   ├── components/
-│   │   ├── EmptyState.jsx
-│   │   ├── FilterControls.jsx
-│   │   ├── Footer.jsx
-│   │   ├── Header.jsx
-│   │   ├── TaskForm.jsx
-│   │   ├── TaskItem.jsx
-│   │   └── TaskList.jsx
-│   ├── App.css
-│   ├── App.js
-│   ├── index.css
-│   └── index.js
-├── .env
-├── .gitignore
-├── package.json
-├── package-lock.json
-├── tailwind.config.js
-└── README.md
+- ├── public/
+- │   ├── index.html
+- │   ├── favicon.ico
+- │   └── manifest.json
+- ├── src/
+- │   ├── assets/
+- │   ├── components/
+- │   ├── App.css
+- │   ├── App.js
+- │   ├── index.css
+- │   └── index.js
+- ├── .env
+- ├── .gitignore
+- ├── package.json
+- ├── package-lock.json
+- ├── tailwind.config.js
+- └── README.md
 
 
 **Core Technologies**
